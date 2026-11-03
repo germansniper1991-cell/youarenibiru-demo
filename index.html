@@ -92,7 +92,7 @@ body {
 		</style>
 		<link id="-gd-engine-icon" rel="icon" type="image/png" href="index.icon.png" />
 <link rel="apple-touch-icon" href="index.apple-touch-icon.png"/>
-<meta name="apple-mobile-web-app-capable" content="yes"><style>#gira{display:none;position:fixed;inset:0;z-index:99;background:#0a0618;color:#9dff3c;font:700 24px sans-serif;align-items:center;justify-content:center;text-align:center;padding:24px}@media (orientation:portrait) and (pointer:coarse){#gira{display:flex}}html,body{touch-action:none;overscroll-behavior:none}</style><div id="gira">Gira il telefono in orizzontale</div>
+<meta name="apple-mobile-web-app-capable" content="yes"><style>#gira{display:none;position:fixed;top:12px;left:50%;transform:translateX(-50%);z-index:99;pointer-events:none;background:#0a0618d9;color:#9dff3c;font:700 15px sans-serif;text-align:center;padding:8px 14px;border-radius:10px;white-space:nowrap;animation:vai 1s 6s forwards}@keyframes vai{to{opacity:0}}@media (orientation:portrait){#gira{display:block}}html,body{touch-action:none;overscroll-behavior:none}</style><div id="gira">In orizzontale si gioca meglio</div>
 	</head>
 	<body>
 		<canvas id="canvas">
@@ -111,7 +111,7 @@ body {
 
 		<script src="index.js"></script>
 		<script>
-const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":7948072,"index.wasm":39514754},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
+const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":7948104,"index.wasm":39514754},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
 const GODOT_THREADS_ENABLED = false;
 const engine = new Engine(GODOT_CONFIG);
 
