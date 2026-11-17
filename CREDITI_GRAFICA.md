@@ -19,3 +19,8 @@ Modifiche: misura, orientamento, anello e luce del colore del pilota.
 - Discopalla: "Free Realistic Disco Ball" di szatmarizoltan — sketchfab.com/3d-models/f59e18c05c99406086dc1bffff07bafc
 Modifiche: misura, orientamento, tolte catena e base; bombole a razzo, luci e fiamme aggiunte.
 - Meteora: roccia **Moon Rock 05** e bombole **Propane Tank** della mucca — Poly Haven, CC0.
+
+## Suoni registrati dal vero (Wikimedia Commons)
+- Muggito della mucca a reazione: "Cow in Antefasy.wav" — CC0 (commons.wikimedia.org/wiki/File:Cow_in_Antefasy.wav)
+- Esplosione: "Explosions-LS100150.ogg" — pubblico dominio (commons.wikimedia.org/wiki/File:Explosions-LS100150.ogg)
+Ritagliati, puliti dal rumore e mescolati con i suoni sintetici del gioco (strumenti/suoni_veri.mjs).
