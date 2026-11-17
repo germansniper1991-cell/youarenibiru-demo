@@ -11,7 +11,8 @@
 - Razzo: "Futuristic Sci-Fi Car" di dylanheyes — sketchfab.com/3d-models/525bb5ad44d34ad1b74aca686ea836a4
 - Navetta: "Christmas present: Sci-Fi Flyer" di tryfield — sketchfab.com/3d-models/82b176608d5f46be84e2674da9c33b8e
 - Satellite: "Spaceship with fusion core" di ricksticky — sketchfab.com/3d-models/45aebadf02474c77a3d7069c3176e442
-Modifiche: misura, orientamento, anello e luce del colore del pilota.
+- Asteroide: "Mining Ship (Carpenter Bee)" di iedalton — sketchfab.com/3d-models/c7c89c02f29d41dba77c2725e1376e0b
+Modifiche: misura, orientamento, anello, luce e vernice del colore scelto.
 
 ## Oggetti delle specialità (Sketchfab, licenza CC Attribution 4.0 — creativecommons.org/licenses/by/4.0/)
 - Mucca a reazione: "Realistic Holstein Cow - Game Ready Asset" di Hdjusj (3Dima) — sketchfab.com/3d-models/0bd2f1c0c79a4b5b9d36e67f0f700c5e
