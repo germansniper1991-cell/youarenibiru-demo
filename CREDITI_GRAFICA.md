@@ -12,3 +12,10 @@
 - Navetta: "Christmas present: Sci-Fi Flyer" di tryfield — sketchfab.com/3d-models/82b176608d5f46be84e2674da9c33b8e
 - Satellite: "Spaceship with fusion core" di ricksticky — sketchfab.com/3d-models/45aebadf02474c77a3d7069c3176e442
 Modifiche: misura, orientamento, anello e luce del colore del pilota.
+
+## Oggetti delle specialità (Sketchfab, licenza CC Attribution 4.0 — creativecommons.org/licenses/by/4.0/)
+- Mucca a reazione: "Realistic Holstein Cow - Game Ready Asset" di Hdjusj (3Dima) — sketchfab.com/3d-models/0bd2f1c0c79a4b5b9d36e67f0f700c5e
+- Mina: "Sea Mine" di murreburr — sketchfab.com/3d-models/4ba29ab1d8d143569026eaa11661b601
+- Discopalla: "Free Realistic Disco Ball" di szatmarizoltan — sketchfab.com/3d-models/f59e18c05c99406086dc1bffff07bafc
+Modifiche: misura, orientamento, tolte catena e base; bombole a razzo, luci e fiamme aggiunte.
+- Meteora: roccia **Moon Rock 05** e bombole **Propane Tank** della mucca — Poly Haven, CC0.
